@@ -1,0 +1,453 @@
+<mjml>
+    <mj-head>
+        <mj-title>Stand With Peace</mj-title>
+        <mj-preview>Stand With Peace</mj-preview>
+        <mj-style>
+            a {
+                font-family: Helvetica;
+                font-size: 14px;
+                font-weight: 400;
+                color: #007ae1;
+                padding: 10px 20px;
+                text-decoration: none;
+            }
+
+            .title {
+                display: block;
+                font-size: 22px;
+            }
+
+            h2 {
+                margin: 0;
+            }
+
+            .help {
+                margin: 0;
+            }
+
+            .thank {
+                font-family: Helvetica;
+                font-size: 32px;
+                font-weight: 600;
+                color: #ffffff;
+                padding-bottom: 12px;
+            }
+
+            .your {
+                font-family: Helvetica;
+                font-size: 14px;
+                margin: 0;
+            }
+
+            .value {
+                font-size: 28px;
+                font-weight: 600;
+            }
+
+            .quantity {
+                color: #ffffff;
+            }
+
+            h3 {
+                margin: 0;
+            }
+
+            .link {
+                cursor: pointer;
+            }
+
+            .contrib {
+                font-family: Helvetica;
+                font-size: 26px;
+                font-weight: 600;
+                color: #ffffff;
+            }
+
+            .how {
+                font-family: Helvetica;
+                font-size: 26px;
+                font-weight: 600;
+                color: #fecb2f;
+                padding-bottom: 24px;
+            }
+
+            .line {
+                width: 50%;
+                height: 2px;
+                background-color: #fecb2f;
+                margin-right: auto;
+                margin-left: auto;
+            }
+
+            h4 {
+                font-family: Helvetica;
+                font-size: 20px;
+                font-weight: 600;
+                color: #007ae1;
+                text-align: center;
+                padding: 10px 0;
+                margin: 0;
+            }
+
+            .info {
+                margin: 0;
+            }
+
+            h5 {
+                font-family: Helvetica;
+                font-size: 16px;
+                font-weight: 600;
+                margin: 0;
+                padding: 20px 0 5px 0;
+            }
+
+            .link-footer {
+                font-family: Helvetica;
+                font-size: 14px;
+                font-weight: 400;
+                color: #9b9b9b;
+                text-decoration: underline;
+                padding: 0;
+            }
+        </mj-style>
+    </mj-head>
+    <mj-body width="600px" background-color="#dff2ff">
+        <mj-section background-color="#007ae1" padding="0">
+            <mj-column>
+                <mj-image src="./img/your-logo-white.png" alt="Logo" align="center" width="130px" padding="20px 0" />
+            </mj-column>
+        </mj-section>
+
+        <mj-section background-color="#007ae1" padding="0">
+            <mj-group>
+                <mj-column padding="0 20px 0 20px">
+                    <mj-text align="center" font-family="Helvetica" font-size="14px" font-weight="400" color="#fecb2f" padding="0">
+                        <p>#StandWithUkraine</p>
+                    </mj-text>
+                    <mj-text align="center"  font-family="Helvetica" font-size="28px" font-weight="600" line-height="50px" color="#fafafa" padding="0">
+                        <h1>Stand <span class="title">with</span> Peace</h1>
+                    </mj-text>
+                    <mj-text align="center" font-family="Helvetica" font-size="14px" font-weight="400" line-height="16px" color="#fafafa" padding="0">
+                        <p>Duis eu mi sed felis posuere interdum euac felisroin pellentesque purus mauris.</p>
+                    </mj-text>
+                </mj-column>
+                <mj-column padding="0 0 20px 0">
+                    <mj-image src="./img/hero.png" alt="Image Ukrainian Color" align="right" width="300px" padding="0 0 10px 0" />
+                    <mj-button align="center" background-color="#fecb2f" border-radius="10px">
+                        <a href="https://standwithukraine.com.ua/uk" target="_blank">DONATE</a>
+                    </mj-button>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+
+        <mj-section background-color="#f1f9ff" padding="10px 0">
+            <mj-column padding="10px 120px">
+                <mj-text align="center" font-family="Helvetica" font-size="22px" font-weight="600" color="#007ae1" padding="20px 0">
+                    <h2>You can Help Ukraine</h2>
+                </mj-text>
+                <mj-text align="center" font-family="Helvetica" font-size="14px" font-weight="400" line-height="22px" color="#555555" padding="10px 0">
+                    <p class="help">Lorem ipsum dolor sit amet, consectetur adipiscing elitent laoreet imperdiet rhoncm pellentesque purus. 
+                    Duis eu mi sed felis posuere interdum euac felisroin mauris.
+                    </p>
+                </mj-text>
+                <mj-text align="center" font-family="Helvetica" font-size="14px" font-weight="400" line-height="22px" color="#555555" padding="10px 0">
+                    <p class="help"> Ateger at nibh euismod edio sodales fringilla non et mauris. Nam sed dapibus sem. 
+                    Ut tristique nisl eget porttitor tristique. Vestibulum vel dapibus felis.
+                    </p>
+                </mj-text>
+                <mj-button background-color="#fecb2f" border-radius="10px" padding="10px 0">
+                    <a href="https://standwithukraine.com.ua/uk" target="_blank">LEARN MORE</a>
+                </mj-button>
+            </mj-column>
+        </mj-section>
+
+        <mj-section background-color="#007ae1" padding="40px 5px">
+            <mj-column>
+                <mj-text color="#fecb2f" font-family="Helvetica" font-size="22px" font-weight="600">
+                    <h2>We need your support</h2>
+                </mj-text>
+                <mj-text color="#eafafa" font-family="Helvetica" font-size="16px" font-weight="400" line-height="20px">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elitent laoreet imperdiet rhoncm pellentesque purus.</p>
+                </mj-text>
+                <mj-text color="#eafafa" font-family="Helvetica" font-size="12px" font-weight="400" line-height="18px">
+                    <ul>
+                        <li>Lorem ipsum dolor sit amet, consectetur adipiscing.</li>
+                        <li>Elitent laoreet imperdiet rhoncm. Rpellentesque purus.</li>
+                        <li>Duis eu mi sed felis posuere interdum.</li>
+                        <li>Teuac felisroin nec mauris.</li>
+                    </ul>
+                </mj-text>
+                <mj-button align="left" background-color="#fecb2f" border-radius="10px" padding="20px 0 0 26px">
+                    <a href="https://standwithukraine.com.ua/uk" target="_blank">READ MORE</a>
+                </mj-button>
+            </mj-column>
+            <mj-column>
+                <mj-image src="./img/stop-war.png" alt="Image Stop War" padding="60px 0 0 0" />
+            </mj-column>
+        </mj-section>
+
+        <mj-wrapper background-color="#fecb2f" padding="20px">
+            <mj-section>
+                <mj-column>
+                    <mj-text align="center" font-family="Helvetica" font-size="16px" font-weight="400" line-height="20px" color="#007ae1" padding="0">
+                        <h2 class="thank">Thank You</h2>
+                        <p  class="your">FOR YOUR SUPPORT</p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elitent laoreet imperdiet rhoncm pellentesque purus. 
+                        Duis eu mi sed felis posuere interdum eu ac feliroin nec mauris.
+                        </p>
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section padding="0">
+                <mj-group>
+                    <mj-column>
+                        <mj-text align="center" font-family="Helvetica" font-size="16px" font-weight="400" color="#007ae1" padding="0">
+                            <p class="value">+<span class="quantity">150</span></p>
+                            <p>Volunteers</p>
+                        </mj-text>
+                    </mj-column>
+                    <mj-column>
+                        <mj-text align="center" font-family="Helvetica" font-size="16px" font-weight="400" color="#007ae1" padding="0">
+                            <p class="value">+<span class="quantity">750</span></p>
+                            <p>Donations</p>
+                        </mj-text>
+                    </mj-column>
+                    <mj-column>
+                        <mj-text align="center" font-family="Helvetica" font-size="16px" font-weight="400" color="#007ae1" padding="0">
+                            <p class="value">+<span class="quantity">300K</span></p>
+                            <p>Raised</p>
+                        </mj-text>
+                    </mj-column>
+                </mj-group>
+            </mj-section>
+        </mj-wrapper>
+        <mj-wrapper background-color="#fecb2f" padding="0 0 20px 0">
+            <mj-section padding="0">
+                <mj-column>
+                    <mj-text align="center">
+                        <h2 class="thank">Donate Today</h2>
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section padding="0 60px">
+                <mj-group>
+                    <mj-column>
+                        <mj-button href="" align="center" width="90px" font-family="Helvetica" font-size="16px" font-weight="400" color="#eafafa" background-color="#007ae1" border-radius="10px" padding="0">
+                        $30
+                        </mj-button>
+                    </mj-column>
+                    <mj-column></mj-column>
+                    <mj-column>
+                        <mj-button href="" align="center" width="90px" font-family="Helvetica" font-size="16px" font-weight="400" color="#eafafa" background-color="#007ae1" border-radius="10px" padding="0">
+                        $50
+                        </mj-button>
+                    </mj-column>
+                    <mj-column></mj-column>
+                    <mj-column>
+                        <mj-button href="" align="center" width="90px" font-family="Helvetica" font-size="16px" font-weight="400" color="#eafafa" background-color="#007ae1" border-radius="10px" padding="0">
+                        $100
+                        </mj-button>
+                    </mj-column>
+                </mj-group>
+            </mj-section>
+        </mj-wrapper>
+        <mj-wrapper  background-color="#fecb2f">
+            <mj-section padding="0">
+                <mj-column>
+                    <mj-text align="center" font-family="Helvetica" font-size="15px" font-weight="400" color="#007ae1" padding="0">
+                        <h3 class="contrib">To Maximize Your Contribution</h3>
+                        <p>SHARE THE CAMPAIGN</p>
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section padding="0 20px">
+                <mj-group width="40%">
+                    <mj-column>
+                        <mj-image css-class="link" href="" src="./img/facebook@2x.png" alt="Image Social" width="40px" padding="0" />
+                    </mj-column>
+                    <mj-column></mj-column>
+                    <mj-column>
+                        <mj-image css-class="link" href="" src="./img/twitter@2x.png" alt="Image Social" width="40px" padding="0" />
+                    </mj-column>
+                    <mj-column></mj-column>
+                    <mj-column>
+                        <mj-image css-class="link" href="" src="./img/instagram@2x.png" alt="Image Social" width="40px" padding="0" />
+                    </mj-column>
+                    <mj-column></mj-column>
+                    <mj-column>
+                        <mj-image css-class="link" href="" src="./img/linkedin@2x.png" alt="Image Social" width="40px" padding="0" />
+                    </mj-column>
+                </mj-group>
+            </mj-section>
+            <mj-section padding="0 20px">
+                <mj-column>
+                    <mj-text align="center" font-family="Helvetica" font-size="16px" font-weight="400" line-height="20px" color="#007ae1" padding="0">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elitent laoreet imperdiet rhoncm pellentesque purus. 
+                        Duis eu mi sed felis posuere interdum eu ac feliroin nec mauris.
+                        </p>
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+        </mj-wrapper>
+
+        <mj-wrapper background-color="#007ae1" padding="40px 10px">
+            <mj-section padding="0 0 20px 20px">
+                <mj-column>
+                    <mj-text align="center" font-family="Helvetica" font-size="16px" font-weight="400" line-height="20px" color="#eafafa" padding="0">
+                        <h2 class="how">How can you help?</h2>
+                        <p style="margin: 0">Lorem ipsum dolor sit amet, consectetur adipiscing elitent laoreet imperdiet rhoncm pellentesque purus.</p>
+                        <p style="margin: 0; padding-bottom: 10px;">Duis eu mi sed felis posuere interdum eu ac felisroin nec mauris.</p>
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section padding="0">
+                <mj-group>
+                    <mj-column width="48%" background-color="#f1f9ff" padding="20px">
+                        <mj-text align="left" font-family="Helvetica" font-size="16px" font-weight="400" line-height="20px" color="#555555" padding="0">
+                            <h4>Become a Volunteer</h4>
+                            <div class="line"></div>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elitent laoreet imperdiet rhoncm pellentesque purus.</p>
+                            <p>Duis eu mi sed felis posuere interdum sit pellentesque puruseuacfelis.</p>
+                        </mj-text>
+                        <mj-button align="center" background-color="#fecb2f" border-radius="10px" padding="15px 0 0 6px">
+                            <a href="https://standwithukraine.com.ua/uk" target="_blank">SIGN UP</a>
+                        </mj-button>
+                    </mj-column>
+                    <mj-column width="4%"></mj-column>
+                    <mj-column width="48%" background-color="#f1f9ff" padding="20px">
+                        <mj-text align="left" font-family="Helvetica" font-size="16px" font-weight="400" line-height="20px" color="#555555" padding="0">
+                            <h4>Donate</h4>
+                            <div class="line"></div>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elitent laoreet imperdiet rhoncm pellentesque purus.</p>
+                            <p>Duis eu mi sed felis posuere interdum sit pellentesque puruseuacfelis.</p>
+                        </mj-text>
+                        <mj-button align="center" background-color="#fecb2f" border-radius="10px" padding="15px 0 0 6px">
+                            <a href="https://standwithukraine.com.ua/uk" target="_blank">DONATE</a>
+                        </mj-button>
+                    </mj-column>
+                </mj-group>
+            </mj-section>
+        </mj-wrapper>
+
+        <mj-wrapper background-color="#007ae1" padding="20px 10px 30px 10px">
+            <mj-section padding="0">
+                <mj-group>
+                    <mj-column>
+                        <mj-image src="./img/kids-1.png" alt="Image Kids" padding="0 10px 0 0" />
+                    </mj-column>
+                    <mj-column>
+                        <mj-image src="./img/donate.png" alt="Image Kids" padding="0 5px 0 5px" />
+                    </mj-column>
+                    <mj-column>
+                        <mj-image src="./img/kids-2.png" alt="Image Kids" padding="0 0 0 10px" />
+                    </mj-column>
+                </mj-group>
+            </mj-section>
+        </mj-wrapper>
+        
+        <mj-wrapper background-color="#007ae1" padding="0">
+            <mj-section  padding="0">
+                <mj-column>
+                    <mj-divider border-width="1px" border-style="solid" border-color="#ffffff" padding="0 10px 30px 10px" />
+                </mj-column>
+            </mj-section>
+            <mj-section padding="0 10px">
+                <mj-group>
+                    <mj-column>
+                        <mj-image align="left" src="./img/your-logo-white.png" alt="Image Logo" width="130px" padding="0 0 14px 5px" />
+                        <mj-text align="left" font-family="Helvetica" font-size="12px" font-weight="400" line-height="22px" color="#ffffff" padding="10px">
+                            <p style="margin: 0;">Lorem ipsum dolor sit amet, consectetur adipiscing elitent laoreet 
+                            imperdie euismod lodio.
+                            </p>
+                        </mj-text>
+                    </mj-column>
+                    <mj-column>
+                        <mj-text align="left" font-family="Helvetica" font-size="12px" font-weight="400" line-height="22px" color="#ffffff" padding="0 10px">
+                            <h5>About</h5>
+                            <p style="margin: 0;">Lorem ipsum dolor sit amet, consectetur adipiscinnteger at nibh 
+                            euismod lodio sodales. Anteger at nibh euismod sodales.
+                            </p>
+                        </mj-text>
+                    </mj-column>
+                    <mj-column>
+                        <mj-text align="left" font-family="Helvetica" font-size="12px" font-weight="400" line-height="22px" color="#ffffff" padding="0 10px">
+                            <h5>Contact</h5>
+                            <p class="info">Your Street 12, 34567 AB City</p>
+                            <p class="info">info@google.com</p>
+                            <p class="info">(+1) 123 456 789</p>
+                            <p class="info">www.google.com</p>
+                        </mj-text>
+                    </mj-column>
+                </mj-group>
+            </mj-section>
+        </mj-wrapper>
+        <mj-wrapper background-color="#007ae1" padding="0 0 30px 0">
+            <mj-section padding="0 410px 0 30px">
+                <mj-group>
+                    <mj-column>
+                        <mj-image src="./img/facebook@2x-white.png" alt="Logo Social" align="left" width="32px" padding="0" />
+                    </mj-column>
+                    <mj-column>
+                        <mj-image src="./img/twitter@2x-white.png" alt="Logo Social" align="left" width="32px" padding="0" />
+                    </mj-column>
+                    <mj-column>
+                        <mj-image src="./img/instagram@2x-white.png" alt="Logo Social" align="left" width="32px" padding="0" />
+                    </mj-column>
+                    <mj-column>
+                        <mj-image src="./img/linkedin@2x-white.png" alt="Logo Social" align="left" width="32px" padding="0" />
+                    </mj-column>
+                </mj-group>
+            </mj-section>
+        </mj-wrapper>
+
+        <mj-wrapper background-color="#dff2ff">
+            <mj-section padding="0">
+                <mj-column>
+                    <mj-text align="center" font-family="Helvetica" font-size="12px" font-weight="400" color="#9b9b9b" padding="0">
+                        <p>[CLIENTS.COMPANY_NAME], [CLIENTS.ADDRESS1], [CLIENTS.ADDRESS2], [CLIENTS.CITY]</p>
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section padding="0">
+                <mj-column>
+                    <mj-text align="center" font-family="Helvetica" font-size="12px" font-weight="400" color="#9b9b9b" padding="0">
+                        <p>[CLIENTS.PROVINCE], [CLIENTS.COUNTRY], [CLIENTS.POSTAL_CODE], [CLIENTS.PHONE]</p>
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section padding="0">
+                <mj-column>
+                    <mj-text align="center" font-family="Helvetica" font-size="12px" font-weight="400" color="#9b9b9b" padding="0">
+                        <p>You've received this email because you signed up to [<a class="link-footer">CLIENTS.WEBSITE</a>]</p>
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section padding="20px 120px">
+                <mj-group>
+                    <mj-column>
+                        <mj-text align="center" font-family="Helvetica" font-size="12px" font-weight="400" color="#9b9b9b" padding="0">
+                            <a class="link-footer" href="">View in browser</a>
+                        </mj-text>
+                    </mj-column>
+                    <mj-column>
+                        <mj-text align="center" font-family="Helvetica" font-size="12px" font-weight="400" color="#9b9b9b" padding="0">
+                            <a class="link-footer" href="">Unsubscribe</a>
+                        </mj-text>
+                    </mj-column>
+                    <mj-column>
+                        <mj-text align="center" font-family="Helvetica" font-size="12px" font-weight="400" color="#9b9b9b" padding="0">
+                            <a class="link-footer" href="">Global unsubscribe</a>
+                        </mj-text>
+                    </mj-column>
+                </mj-group>
+            </mj-section>
+            <mj-section padding="0">
+                <mj-column>
+                        <mj-text align="center" font-family="Helvetica" font-size="12px" font-weight="400" color="#9b9b9b" padding="0">
+                            <p>2023</p>
+                        </mj-text>
+                    </mj-column>
+            </mj-section>
+        </mj-wrapper>
+    </mj-body>
+</mjml>
