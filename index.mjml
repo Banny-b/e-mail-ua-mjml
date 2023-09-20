@@ -114,7 +114,7 @@
     <mj-body width="600px" background-color="#dff2ff">
         <mj-section background-color="#007ae1" padding="0">
             <mj-column>
-                <mj-image src="./img/your-logo-white.png" alt="Logo" align="center" width="130px" padding="20px 0" />
+                <mj-image src="https://i.ibb.co/5T4yq47/your-logo-white.png" alt="Logo" align="center" width="130px" padding="20px 0" />
             </mj-column>
         </mj-section>
 
@@ -132,7 +132,7 @@
                     </mj-text>
                 </mj-column>
                 <mj-column padding="0 0 20px 0">
-                    <mj-image src="./img/hero.png" alt="Image Ukrainian Color" align="right" width="300px" padding="0 0 10px 0" />
+                    <mj-image src="https://i.ibb.co/zJQK84t/hero.png" alt="Image Ukrainian Color" align="right" width="300px" padding="0 0 10px 0" />
                     <mj-button align="center" background-color="#fecb2f" border-radius="10px">
                         <a href="https://standwithukraine.com.ua/uk" target="_blank">DONATE</a>
                     </mj-button>
@@ -182,7 +182,7 @@
                 </mj-button>
             </mj-column>
             <mj-column>
-                <mj-image src="./img/stop-war.png" alt="Image Stop War" padding="60px 0 0 0" />
+                <mj-image src="https://i.ibb.co/dkb0RXM/stop-war.png" alt="Image Stop War" padding="60px 0 0 0" />
             </mj-column>
         </mj-section>
 
@@ -263,19 +263,19 @@
             <mj-section padding="0 20px">
                 <mj-group width="40%">
                     <mj-column>
-                        <mj-image css-class="link" href="" src="./img/facebook@2x.png" alt="Image Social" width="40px" padding="0" />
+                        <mj-image css-class="link" href="" src="https://i.ibb.co/Z2wW5L0/facebook-2x.png" alt="Image Social" width="40px" padding="0" />
                     </mj-column>
                     <mj-column></mj-column>
                     <mj-column>
-                        <mj-image css-class="link" href="" src="./img/twitter@2x.png" alt="Image Social" width="40px" padding="0" />
+                        <mj-image css-class="link" href="" src="https://i.ibb.co/QkL6QW4/twitter-2x.png" alt="Image Social" width="40px" padding="0" />
                     </mj-column>
                     <mj-column></mj-column>
                     <mj-column>
-                        <mj-image css-class="link" href="" src="./img/instagram@2x.png" alt="Image Social" width="40px" padding="0" />
+                        <mj-image css-class="link" href="" src="https://i.ibb.co/k10Qk8B/instagram-2x.png" alt="Image Social" width="40px" padding="0" />
                     </mj-column>
                     <mj-column></mj-column>
                     <mj-column>
-                        <mj-image css-class="link" href="" src="./img/linkedin@2x.png" alt="Image Social" width="40px" padding="0" />
+                        <mj-image css-class="link" href="" src="https://i.ibb.co/MN0Z8kY/linkedin-2x.png" alt="Image Social" width="40px" padding="0" />
                     </mj-column>
                 </mj-group>
             </mj-section>
@@ -333,13 +333,13 @@
             <mj-section padding="0">
                 <mj-group>
                     <mj-column>
-                        <mj-image src="./img/kids-1.png" alt="Image Kids" padding="0 10px 0 0" />
+                        <mj-image src="https://i.ibb.co/3h4rybV/kids-1.png" alt="Image Kids" padding="0 10px 0 0" />
                     </mj-column>
                     <mj-column>
-                        <mj-image src="./img/donate.png" alt="Image Kids" padding="0 5px 0 5px" />
+                        <mj-image src="https://i.ibb.co/LrkbGjD/donate.png" alt="Image Donade" padding="0 5px 0 5px" />
                     </mj-column>
                     <mj-column>
-                        <mj-image src="./img/kids-2.png" alt="Image Kids" padding="0 0 0 10px" />
+                        <mj-image src="https://i.ibb.co/Mn66wsS/kids-2.png" alt="Image Kids" padding="0 0 0 10px" />
                     </mj-column>
                 </mj-group>
             </mj-section>
@@ -354,7 +354,7 @@
             <mj-section padding="0 10px">
                 <mj-group>
                     <mj-column>
-                        <mj-image align="left" src="./img/your-logo-white.png" alt="Image Logo" width="130px" padding="0 0 14px 5px" />
+                        <mj-image align="left" src="https://i.ibb.co/5T4yq47/your-logo-white.png" alt="Image Logo" width="130px" padding="0 0 14px 5px" />
                         <mj-text align="left" font-family="Helvetica" font-size="12px" font-weight="400" line-height="22px" color="#ffffff" padding="10px">
                             <p style="margin: 0;">Lorem ipsum dolor sit amet, consectetur adipiscing elitent laoreet 
                             imperdie euismod lodio.
@@ -385,16 +385,16 @@
             <mj-section padding="0 410px 0 30px">
                 <mj-group>
                     <mj-column>
-                        <mj-image src="./img/facebook@2x-white.png" alt="Logo Social" align="left" width="32px" padding="0" />
+                        <mj-image src="https://i.ibb.co/F4XV5wD/facebook-2x-white.png" alt="Logo Social" align="left" width="32px" padding="0" />
                     </mj-column>
                     <mj-column>
-                        <mj-image src="./img/twitter@2x-white.png" alt="Logo Social" align="left" width="32px" padding="0" />
+                        <mj-image src="https://i.ibb.co/ySSRGVx/twitter-2x-white.png" alt="Logo Social" align="left" width="32px" padding="0" />
                     </mj-column>
                     <mj-column>
-                        <mj-image src="./img/instagram@2x-white.png" alt="Logo Social" align="left" width="32px" padding="0" />
+                        <mj-image src="https://i.ibb.co/chrv5db/instagram-2x-white.png" alt="Logo Social" align="left" width="32px" padding="0" />
                     </mj-column>
                     <mj-column>
-                        <mj-image src="./img/linkedin@2x-white.png" alt="Logo Social" align="left" width="32px" padding="0" />
+                        <mj-image src="https://i.ibb.co/m8BXwxm/linkedin-2x-white.png" alt="Logo Social" align="left" width="32px" padding="0" />
                     </mj-column>
                 </mj-group>
             </mj-section>
