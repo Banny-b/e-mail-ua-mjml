@@ -1,2 +1,2 @@
 # e-mail-ua-mjml
-E-mail Stand with Ukraine made using MJML
+Layout e-mail Stand with Ukraine made using MJML
