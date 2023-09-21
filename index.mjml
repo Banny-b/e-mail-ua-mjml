@@ -33,6 +33,14 @@
                 padding-bottom: 12px;
             }
 
+            .link-sum {
+                font-family: Helvetica;
+                font-size: 16px;
+                font-weight: 400;
+                color: #eafafa;
+                padding: 6px;
+            }
+
             .your {
                 font-family: Helvetica;
                 font-size: 14px;
@@ -61,6 +69,10 @@
                 font-size: 26px;
                 font-weight: 600;
                 color: #ffffff;
+            }
+
+            .social {
+                padding: 0 0 0 80px;
             }
 
             .how {
@@ -99,6 +111,10 @@
                 font-weight: 600;
                 margin: 0;
                 padding: 20px 0 5px 0;
+            }
+
+            .social-footer {
+                cursor: pointer;
             }
 
             .link-footer {
@@ -232,20 +248,20 @@
             <mj-section padding="0 60px">
                 <mj-group>
                     <mj-column>
-                        <mj-button href="" align="center" width="90px" font-family="Helvetica" font-size="16px" font-weight="400" color="#eafafa" background-color="#007ae1" border-radius="10px" padding="0">
-                        $30
+                        <mj-button align="center" width="100px" background-color="#007ae1" border-radius="10px" padding="0">
+                            <a class="link-sum" href="">$30</a>
                         </mj-button>
                     </mj-column>
                     <mj-column></mj-column>
                     <mj-column>
-                        <mj-button href="" align="center" width="90px" font-family="Helvetica" font-size="16px" font-weight="400" color="#eafafa" background-color="#007ae1" border-radius="10px" padding="0">
-                        $50
+                        <mj-button align="center" width="100px" background-color="#007ae1" border-radius="10px" padding="0">
+                            <a class="link-sum" href="">$50</a>
                         </mj-button>
                     </mj-column>
                     <mj-column></mj-column>
                     <mj-column>
-                        <mj-button href="" align="center" width="90px" font-family="Helvetica" font-size="16px" font-weight="400" color="#eafafa" background-color="#007ae1" border-radius="10px" padding="0">
-                        $100
+                        <mj-button align="center" width="100px" background-color="#007ae1" border-radius="10px" padding="0">
+                            <a class="link-sum" href="">$100</a>
                         </mj-button>
                     </mj-column>
                 </mj-group>
@@ -261,19 +277,19 @@
                 </mj-column>
             </mj-section>
             <mj-section padding="0 20px">
-                <mj-group width="40%">
+                <mj-group css-class="social" width="40%">
                     <mj-column>
                         <mj-image css-class="link" href="" src="https://i.ibb.co/Z2wW5L0/facebook-2x.png" alt="Image Social" width="40px" padding="0" />
                     </mj-column>
-                    <mj-column></mj-column>
+                    <mj-column width="3%"></mj-column>
                     <mj-column>
                         <mj-image css-class="link" href="" src="https://i.ibb.co/QkL6QW4/twitter-2x.png" alt="Image Social" width="40px" padding="0" />
                     </mj-column>
-                    <mj-column></mj-column>
+                    <mj-column width="3%"></mj-column>
                     <mj-column>
                         <mj-image css-class="link" href="" src="https://i.ibb.co/k10Qk8B/instagram-2x.png" alt="Image Social" width="40px" padding="0" />
                     </mj-column>
-                    <mj-column></mj-column>
+                    <mj-column width="3%"></mj-column>
                     <mj-column>
                         <mj-image css-class="link" href="" src="https://i.ibb.co/MN0Z8kY/linkedin-2x.png" alt="Image Social" width="40px" padding="0" />
                     </mj-column>
@@ -382,19 +398,22 @@
             </mj-section>
         </mj-wrapper>
         <mj-wrapper background-color="#007ae1" padding="0 0 30px 0">
-            <mj-section padding="0 410px 0 30px">
+            <mj-section padding="0 350px 0 25px">
                 <mj-group>
                     <mj-column>
-                        <mj-image src="https://i.ibb.co/F4XV5wD/facebook-2x-white.png" alt="Logo Social" align="left" width="32px" padding="0" />
+                        <mj-image css-class="social-footer" href="" src="https://i.ibb.co/F4XV5wD/facebook-2x-white.png" alt="Logo Social" align="left" width="32px" padding="0" />
                     </mj-column>
+                    <mj-column width="4%"></mj-column>
                     <mj-column>
-                        <mj-image src="https://i.ibb.co/ySSRGVx/twitter-2x-white.png" alt="Logo Social" align="left" width="32px" padding="0" />
+                        <mj-image css-class="social-footer" href="" src="https://i.ibb.co/ySSRGVx/twitter-2x-white.png" alt="Logo Social" align="left" width="32px" padding="0" />
                     </mj-column>
+                    <mj-column width="4%"></mj-column>
                     <mj-column>
-                        <mj-image src="https://i.ibb.co/chrv5db/instagram-2x-white.png" alt="Logo Social" align="left" width="32px" padding="0" />
+                        <mj-image css-class="social-footer" href="" src="https://i.ibb.co/chrv5db/instagram-2x-white.png" alt="Logo Social" align="left" width="32px" padding="0" />
                     </mj-column>
+                    <mj-column width="4%"></mj-column>
                     <mj-column>
-                        <mj-image src="https://i.ibb.co/m8BXwxm/linkedin-2x-white.png" alt="Logo Social" align="left" width="32px" padding="0" />
+                        <mj-image css-class="social-footer" href="" src="https://i.ibb.co/m8BXwxm/linkedin-2x-white.png" alt="Logo Social" align="left" width="32px" padding="0" />
                     </mj-column>
                 </mj-group>
             </mj-section>
